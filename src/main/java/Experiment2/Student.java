@@ -1,6 +1,6 @@
 package Experiment2;
 
-class Student {
+public class Student {
     String name;
     int theory;
     int lab;
